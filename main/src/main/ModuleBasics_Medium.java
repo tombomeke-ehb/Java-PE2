@@ -13,5 +13,10 @@ public class ModuleBasics_Medium {
         //    ***
         //    ****
         short hoogte = 4;
+        String output = "";
+        for(int i = 0; hoogte > i; i++){
+            output += "*";
+            System.out.println(output);
+        }
     }
 }
