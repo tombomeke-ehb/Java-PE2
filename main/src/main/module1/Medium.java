@@ -1,7 +1,6 @@
-package main;
-import java.util.Scanner;
+package main.module1;
 
-public class ModuleBasics_Medium {
+public class Medium {
     public static void main(String[] args) {
         //M1: Sterrenpiramide, opnieuw. Oprechte excuses
         //

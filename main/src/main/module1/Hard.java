@@ -1,8 +1,8 @@
-package main;
+package main.module1;
 
 import java.util.Scanner;
 
-public class ModuleBasics_Hard {
+public class Hard {
     public static void main(String[] args) {
         //H1: meer logica
         //

@@ -1,6 +1,6 @@
-package main;
+package main.module1;
 
-public class ModuleBasics_Easy {
+public class Easy {
     public static void main(String[] args) {
         //E1: loops en selecties
         //
