@@ -49,7 +49,7 @@ Voor de waarde van pi kan je Math.PI gebruiken.
         return straal;
     }
 
-    public String getKleur() {
+    public String getKleur(){
         return kleur;
     }
 
@@ -64,14 +64,4 @@ Voor de waarde van pi kan je Math.PI gebruiken.
     public double geefOppervlakte(){
         return Math.PI * straal * straal;
     }
-
-
-
-    public static void main(String[] args) {
-        Circle c = new Circle(2);
-
-        c.straal = c.straal * 5;
-        System.out.println(c.straal);
-    }
-
 }
