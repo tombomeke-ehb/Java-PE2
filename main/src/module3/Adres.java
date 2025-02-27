@@ -1,4 +1,4 @@
-package main.module3;
+package module3;
 
 public class Adres {
     /*

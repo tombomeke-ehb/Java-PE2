@@ -1,6 +1,4 @@
-package main.module2;
-
-import java.util.Scanner;
+package module2;
 
 public class Easy {
     /*
