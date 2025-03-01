@@ -43,11 +43,27 @@ public class Auto {
         this.brandstoftank = 100;
     }
 
-    public void rij(double afstand){
+    public double rij(double afstand){
         if (afstand < 0){
             afstand = afstand * (-1);
         }
         double geredenAfstand;
         double mogelijkeAfstand = (brandstoftank / verbruik) * 100;
+
+        if (afstand <= mogelijkeAfstand){
+            geredenAfstand = afstand;
+            brandstoftank -= geredenAfstand;
+        }else{
+            geredenAfstand = mogelijkeAfstand;
+            brandstoftank = 0;
+        }
+        teller += geredenAfstand;
+        return geredenAfstand;
+    }
+
+    public void printInfo(){
+        System.out.println("Kilometerteller: " + teller + " km");
+        System.out.println("Huidige brandstof: " + brandstoftank + " liter");
+        System.out.println("Verbruik: " + verbruik + " liter per 100 km");
     }
 }
