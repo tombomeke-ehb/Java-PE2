@@ -1,4 +1,4 @@
-package main.module1;
+package module1;
 
 public class Medium {
     public static void main(String[] args) {
