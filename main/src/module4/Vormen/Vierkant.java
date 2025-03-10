@@ -1,4 +1,4 @@
-package main.module4.Vormen;
+package module4.Vormen;
 
 public class Vierkant extends Vorm{
     private double zijde;

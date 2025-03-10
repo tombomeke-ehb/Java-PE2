@@ -1,8 +1,9 @@
-package main.module4;
+package module4;
 
-import main.module4.Vormen.Trapezium;
-import main.module4.Vormen.Vierkant;
-import main.module4.Vormen.Vorm;
+
+import module4.Vormen.Trapezium;
+import module4.Vormen.Vierkant;
+import module4.Vormen.Vorm;
 
 import java.time.LocalDate;
 

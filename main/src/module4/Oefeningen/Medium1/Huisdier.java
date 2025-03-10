@@ -1,4 +1,4 @@
-package main.module4.Oefeningen;
+package module4.Oefeningen.Medium1;
 
 public class Huisdier {
 
