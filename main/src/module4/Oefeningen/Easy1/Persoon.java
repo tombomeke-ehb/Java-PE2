@@ -7,6 +7,24 @@ public class Persoon {
     private String achternaam;
     private String email;
     private Adres adres;
+    private static int count;
+
+    public Persoon(){
+        count++;
+    }
+
+    public Persoon(String voornaam, String achternaam) {
+        this.voornaam = voornaam;
+        this.achternaam = achternaam;
+        count++;
+    }
+
+    public Persoon(String voornaam, String achternaam, Adres adres) {
+        this.voornaam = voornaam;
+        this.achternaam = achternaam;
+        this.adres = adres;
+        count++;
+    }
 
     public String getVoornaam() {
         return voornaam;
@@ -38,6 +56,16 @@ public class Persoon {
 
     public void setAdres(Adres adres) {
         this.adres = adres;
+    }
+
+    public static int getCount(){
+        return count;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Deze persoon heet " + voornaam + " " + achternaam + " " + adres + " Er zijn " + getCount() + " personen aangemaakt";
     }
 }
 

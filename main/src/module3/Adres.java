@@ -79,4 +79,10 @@ Als uitdaging voorzie je ook nog een controle bij het invoeren van een postcode,
     public void showAdres() {
         System.out.println("Adres: " + straatnaam + ", " + huisnummer + ", " + bus + ", " + postcode);
     }
+
+    @Override
+    public String toString(){
+        return "Adres: " + straatnaam + ", " + huisnummer + ", " + bus + ", " + postcode;
+    }
+
 }
