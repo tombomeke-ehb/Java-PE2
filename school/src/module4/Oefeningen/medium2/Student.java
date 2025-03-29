@@ -12,7 +12,8 @@ public class Student extends Persoon{
     }
 
     public void wijzigStudentToe(Student.getNaam()){
-        for (int i = 0; i < array.length; i++) {}
-        Student.getNaam() = array[i];
+        for (int i = 0; i < array.length; i++) {
+            Student.getNaam() = array[i];
+        }
     }
 }
