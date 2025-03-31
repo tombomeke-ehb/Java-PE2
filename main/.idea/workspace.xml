@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc22699a-fd39-4a5e-a68a-ed597b99c62c" name="Changes" comment="TEST">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module1/Easy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module1/Hard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module1/Medium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module2/Easy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module2/Easy2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module2/Hard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module2/Medium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module3/Adres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module3/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module3/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Oefeningen/Easy1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Oefeningen/Easy1/Persoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Oefeningen/Medium1/Huisdier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Oefeningen/Medium1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Persoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Vormen/Trapezium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Vormen/Vierkant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/Vormen/Vorm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/les2/Apparaat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/les2/Boiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/module4/les2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module1/Easy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module1/Hard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module1/Medium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module2/Easy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module2/Easy2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module2/Hard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module2/Medium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module3/Adres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module3/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module3/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Oefeningen/Easy1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Oefeningen/Easy1/Persoon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Oefeningen/Easy2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Oefeningen/Easy2/Zwembad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Oefeningen/Medium1/Huisdier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Oefeningen/Medium1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Persoon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Vormen/Trapezium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Vormen/Vierkant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/Vormen/Vorm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/les2/Apparaat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/les2/Boiler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module4/les2/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tombomeke-ehb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tombomeke-ehb/Java-PE2.git&quot;,
+    &quot;accountId&quot;: &quot;8eb05b3e-e0cf-463b-a189-70335f49bcc2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tVIYgJhksHMJOZxWc85dHVL4VB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Circle.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sinkh/OneDrive - Erasmushogeschool Brussel/Desktop/Code/Java-PE2/school",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc22699a-fd39-4a5e-a68a-ed597b99c62c" name="Changes" comment="" />
+      <created>1740430863534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740430863534</updated>
+      <workItem from="1740430864700" duration="7000" />
+      <workItem from="1740470699590" duration="8157000" />
+      <workItem from="1740508777120" duration="132000" />
+      <workItem from="1741081675632" duration="5392000" />
+      <workItem from="1741250809589" duration="853000" />
+      <workItem from="1741648458242" duration="61000" />
+      <workItem from="1741685743341" duration="3298000" />
+      <workItem from="1741895922685" duration="185000" />
+    </task>
+    <task id="LOCAL-00001" summary="TEST">
+      <option name="closed" value="true" />
+      <created>1740499227619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740499227619</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TEST">
+      <option name="closed" value="true" />
+      <created>1740499251274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740499251274</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TEST">
+      <option name="closed" value="true" />
+      <created>1741251498081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741251498081</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEST" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEST" />
+  </component>
+</project>
