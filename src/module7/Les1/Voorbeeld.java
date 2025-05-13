@@ -63,7 +63,8 @@ public class Voorbeeld {
         return;
     }
     */
-            geefException();
+            /*geefException();
+             */
 
 
     }
