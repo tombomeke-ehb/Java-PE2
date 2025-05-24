@@ -1,4 +1,4 @@
-package module4.Oefeningen.Easy1;
+package module4.Oplossingen.Easy1;
 
 import module3.Oplossingen.Adres;
 

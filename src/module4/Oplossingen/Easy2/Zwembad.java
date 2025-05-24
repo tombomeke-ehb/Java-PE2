@@ -1,4 +1,4 @@
-package module4.Oefeningen.Easy2;
+package module4.Oplossingen.Easy2;
 
 /*
 E2: Niet verzuipen

@@ -1,4 +1,4 @@
-package module4.Oefeningen.medium2;
+package module4.Oplossingen.medium2;
 
 public class Main {
 

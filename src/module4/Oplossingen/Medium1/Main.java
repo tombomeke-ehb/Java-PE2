@@ -1,4 +1,4 @@
-package module4.Oefeningen.Medium1;
+package module4.Oplossingen.Medium1;
 
 public class Main {
     public static void main(String[] args) {
