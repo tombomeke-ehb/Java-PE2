@@ -1,4 +1,4 @@
-package module3;
+package module3.Oplossingen;
 
 public class Auto {
     private static double teller = 0;

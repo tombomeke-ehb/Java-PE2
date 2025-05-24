@@ -1,4 +1,4 @@
-package module2;
+package module2.Oplossingen;
 
 public class Easy2 {
     public static void main(String[] args) {

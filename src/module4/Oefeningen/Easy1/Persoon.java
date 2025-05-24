@@ -1,6 +1,6 @@
 package module4.Oefeningen.Easy1;
 
-import module3.Adres;
+import module3.Oplossingen.Adres;
 
 public class Persoon {
     private String voornaam;
