@@ -80,6 +80,11 @@ public class Adres {
         System.out.println("Adres: " + straatnaam + " " + huisnummer + " " + bus + " " + woonplaats + " " + postcode);
     }
 
+    @Override
+    public String toString() {
+        return "Adres: " + straatnaam + " " + huisnummer + " " + bus + " " + woonplaats + " " + postcode;
+    }
+
     public static void main(String[] args) {
         Adres adres1 = new Adres("Konkelstraat", 96, 1200, 1200, "Sint-Lambrechts-Woluwe");
 

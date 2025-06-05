@@ -48,7 +48,7 @@ public class Main {
 
         //autoVerhuur.remove("123ABC");
         for(String key : autoVerhuur.keySet()) {
-            //System.out.println(autoVerhuur.get(key));
+            System.out.println(autoVerhuur.get(key));
         }
 
         for(Map.Entry<String, String> element : autoVerhuur.entrySet()) {
